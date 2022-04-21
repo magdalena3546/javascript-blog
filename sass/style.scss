@@ -152,4 +152,26 @@ a, li {
   p {
     margin: 0 10px 0 0;
   }
+ 
 }
+
+.tags.list {
+  li{
+    display: inline;
+  }
+}
+.tag-size-1 {
+  font-size: 80%;
+}
+.tag-size-2 {
+  font-size: 100%;
+}
+
+.tag-size-3 {
+  font-size: 120%;
+}
+
+.tag-size-4 {
+  font-size: 140%;
+}
+
