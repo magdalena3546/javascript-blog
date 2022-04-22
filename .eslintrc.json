@@ -37,4 +37,8 @@
             "no-inner-declarations": 0
         }
     }
+
+    "globals": {
+        "Handlebars": false
+      }
 }
